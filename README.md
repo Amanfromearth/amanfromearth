@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Anurag! 👋
 
-<!--
-**Amanfromearth/amanfromearth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer with experience in building scalable web applications and leading projects from concept to
+deployment. Passionate about learning new technologies and solving real-world challenges through innovative solutions.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently looking for a full-time role in full-stack development.
+- 📝 In the past i co-founeded zlock technologies and built multiple webstartups.
+- 🌐I have personal Portfolio website you can check that out to know more [anurag.be](https://anurag.be/) .
+
+## My Articles
+- [How i built naminggenie](https://anurag.be/projects/naminggenie)
+
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwindcss,prisma)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+
+  - 🚀 Building [Kineticx](kineticx.vercel.app)
+  - Learning AWS to get the certification
+  -Learning Go for backend devlopment
+
+
+## 📬 Get in Touch
+
+- Connect with me on [Twitter](https://twitter.com/amanfromearth_)
+- Read more of my articles on [anurag.be](https://anurag.be/#projects)
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
