@@ -7,7 +7,7 @@ deployment. Passionate about learning new technologies and solving real-world ch
 
 - 🔭 I'm currently looking for a full-time role in full-stack development.
 - 📝 In the past i co-founeded zlock technologies and built multiple webstartups.
-- 🌐I have personal Portfolio website you can check that out to know more [anurag.be](https://anurag.be/) .
+- 🌐I have a personal Portfolio website you can check that out to know more [anurag.be](https://anurag.be/) .
 
 ## My Articles
 - [How i built naminggenie](https://anurag.be/projects/naminggenie)
