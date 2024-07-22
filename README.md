@@ -1,4 +1,3 @@
-![](https://i.pinimg.com/originals/19/8f/fb/198ffbfb445e8aeaf22ad6ca395b9c50.gif)
 # Hi, I'm Anurag! 👋
 
 Full-stack developer with experience in building scalable web applications and leading projects from concept to
@@ -30,3 +29,4 @@ deployment. Passionate about learning new technologies and solving real-world ch
 - Read more of my articles on [anurag.be](https://anurag.be/#projects)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+![](https://i.pinimg.com/originals/19/8f/fb/198ffbfb445e8aeaf22ad6ca395b9c50.gif)
