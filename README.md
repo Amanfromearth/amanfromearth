@@ -14,7 +14,7 @@ deployment. Passionate about learning new technologies and solving real-world ch
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,python,tailwindcss,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,redux,python,tailwindcss,prisma)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
