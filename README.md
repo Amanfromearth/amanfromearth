@@ -5,7 +5,7 @@ deployment. Passionate about learning new technologies and solving real-world ch
 
 ## 🚀 About Me
 
-- 🔭 I'm currently looking for a full-time role in full-stack development.
+- 🔭 I'm currently working for dodopayments.
 - 📝 In the past i co-founeded zlock technologies and built multiple webstartups.
 - 🌐I have a personal Portfolio website you can check that out to know more [anurag.be](https://anurag.be/) .
 
