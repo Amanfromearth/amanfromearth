@@ -7,25 +7,19 @@ deployment. Passionate about learning new technologies and solving real-world ch
 
 - 🔭 I'm currently working for dodopayments.
 - 📝 In the past i co-founeded zlock technologies and built multiple webstartups.
-- 🌐I have a personal Portfolio website you can check that out to know more [anurag.be](https://anurag.be/) .
+- 🌐I have a personal Portfolio website you can check that out to know more [anurag.lol](https://anurag.lol/) .
 
 ## My Articles
-- [How i built naminggenie](https://anurag.be/projects/naminggenie)
+- [How i built naminggenie](https://anurag.lol/projects/naminggenie)
 
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,redux,python,tailwindcss,prisma)](https://skillicons.dev)
 
-## 🌱 Currently Exploring
-
-  - 🚀 Building [Kineticx](kineticx.vercel.app)
-  - Learning AWS to get the certification
-  -Learning Go for backend devlopment
-
 
 ## 📬 Get in Touch
 
 - Connect with me on [Twitter](https://twitter.com/amanfromearth_)
-- Read more of my articles on [anurag.be](https://anurag.be/#projects)
+- Read more of my articles on [anurag.be](https://anurag.lol/#projects)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
